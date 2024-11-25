@@ -110,7 +110,7 @@ fun PhotoPickerScreen(
                     }
                 ) {
                     Text(
-                        text = "Pick a image"
+                        text = "사진 선택"
                     )
                 }
 
